@@ -13,7 +13,7 @@ ddt==1.2.0
 dnspython==1.16.0
 enum34==1.1.6
 et-xmlfile==1.0.1
-eventlet==0.24.1
+eventlet==0.31.0
 Faker==1.0.7
 falcon==1.4.1
 greenlet==0.4.15
